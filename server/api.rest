@@ -1,8 +1,8 @@
 ###
-GET  http://localhost:4000/api/employees
+GET  http://64.225.20.73:4000/api/employees
 
 ###
-POST  http://localhost:4000/api/employees
+POST  http://64.225.20.73:4000/api/employees
 Content-Type: application/json
 
 {
@@ -12,13 +12,13 @@ Content-Type: application/json
     "salary": "50000"
 }
 ###
-GET http://localhost:4000/api/employees/5fd124e55629171d5c819f20
+GET http://64.225.20.73:4000/api/employees/5fea87533f1e4088d14591b2
 
 ###
-DELETE  http://localhost:4000/api/employees/5fd136005629171d5c819f21
+DELETE  http://64.225.20.73:4000/api/employees/5fea87533f1e4088d14591b2
 
 ###
-PUT http://localhost:4000/api/employees/5fd13dba9a072a1a949c5d54
+PUT http://64.225.20.73:4000/api/employees/5fea87533f1e4088d14591b2
 Content-Type: application/json
 
 {
