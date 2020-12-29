@@ -1,6 +1,6 @@
 
 
-const employeeCtrl ={}
+const employeeCtrl ={} 
 
 const Employee= require('../models/Employee')
 
